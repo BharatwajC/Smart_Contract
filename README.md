@@ -1,2 +1,2 @@
-# Smart_Contract
+# Smart_Contract_Web3_Python
 Learning_Curve
